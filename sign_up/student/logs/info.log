@@ -1,0 +1,137 @@
+[2019-05-05 00:07:14] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:08:30] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:15:36] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:18:30] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:20:04] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:21:20] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:22:12] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:22:31] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:22:55] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:23:33] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:26:21] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:27:23] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:28:08] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:29:00] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 00:31:12] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 09:11:49] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 11:09:36] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 11:10:07] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 11:16:40] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 11:18:09] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 11:36:25] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 11:37:01] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 11:48:13] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 15:02:54] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 15:15:55] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 15:21:06] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 15:32:39] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 15:45:54] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 15:50:49] INFO  student.StudentMain 21 main - 开始查询学员总数
+[2019-05-05 15:50:49] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 15:50:49] INFO  student.StudentMain 26 main - 完成查询，共耗时649毫秒
+[2019-05-05 16:00:43] INFO  student.StudentMain 21 main - 开始查询学员总数
+[2019-05-05 16:00:44] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:00:44] INFO  student.StudentMain 26 main - 完成查询，共耗时654毫秒
+[2019-05-05 16:00:44] INFO  student.StudentMain 31 main - 开始进行增加记录操作
+[2019-05-05 16:00:44] INFO  student.StudentMain 49 main - 完成增加记录操作，增加后学员记录总数47共耗时13毫秒
+[2019-05-05 16:00:44] INFO  student.StudentMain 56 main - 开始更改学员记录
+[2019-05-05 16:00:44] INFO  student.StudentMain 73 main - 更改操作结束，共耗时8毫秒
+[2019-05-05 16:17:19] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:17:50] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:21:29] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:22:46] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:23:53] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:30:00] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:37:06] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:41:06] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:43:28] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:45:07] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:48:29] INFO  student.StudentMain 21 main - 开始查询学员总数
+[2019-05-05 16:48:30] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:48:30] INFO  student.StudentMain 26 main - 完成查询，共耗时758毫秒
+[2019-05-05 16:48:30] INFO  student.StudentMain 31 main - 开始进行增加记录操作
+[2019-05-05 16:48:30] INFO  student.StudentMain 49 main - 完成增加记录操作，增加后学员编号：64 记录总数：56共耗时17毫秒
+[2019-05-05 16:48:30] INFO  student.StudentMain 56 main - 开始更改学员记录
+[2019-05-05 16:48:30] INFO  student.StudentMain 73 main - 更改操作结束，共耗时11毫秒
+[2019-05-05 16:49:51] INFO  student.StudentMain 21 main - 开始查询学员总数
+[2019-05-05 16:49:52] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 16:49:52] INFO  student.StudentMain 26 main - 完成查询，共耗时772毫秒
+[2019-05-05 16:49:52] INFO  student.StudentMain 31 main - 开始进行增加记录操作
+[2019-05-05 16:49:52] INFO  student.StudentMain 49 main - 完成增加记录操作，增加后学员编号：65 记录总数：57共耗时16毫秒
+[2019-05-05 16:49:52] INFO  student.StudentMain 56 main - 开始更改学员记录
+[2019-05-05 16:49:52] INFO  student.StudentMain 73 main - 更改操作结束，共耗时5毫秒
+[2019-05-05 17:02:56] INFO  student.StudentMain 21 main - 开始查询学员总数
+[2019-05-05 17:02:57] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 17:02:57] INFO  student.StudentMain 26 main - 完成查询，共耗时702毫秒
+[2019-05-05 17:02:57] INFO  student.StudentMain 31 main - 开始进行增加记录操作
+[2019-05-05 17:02:57] INFO  student.StudentMain 49 main - 完成增加记录操作，增加后学员编号：66 记录总数：58共耗时17毫秒
+[2019-05-05 17:02:57] INFO  student.StudentMain 56 main - 开始更改学员记录
+[2019-05-05 17:02:57] INFO  student.StudentMain 73 main - 更改操作结束，共耗时12毫秒
+[2019-05-05 19:49:14] INFO  student.StudentMain 21 main - 开始查询学员总数
+[2019-05-05 19:49:14] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 19:49:14] INFO  student.StudentMain 26 main - 完成查询，共耗时813毫秒
+[2019-05-05 19:49:14] INFO  student.StudentMain 31 main - 开始进行增加记录操作
+[2019-05-05 19:49:15] INFO  student.StudentMain 49 main - 完成增加记录操作，增加后学员编号：null 记录总数：59共耗时15毫秒
+[2019-05-05 19:49:15] INFO  student.StudentMain 56 main - 开始更改学员记录
+[2019-05-05 19:49:15] INFO  student.StudentMain 73 main - 更改操作结束，共耗时10毫秒
+[2019-05-05 19:56:58] INFO  student.StudentMain 20 main - 开始查询学员总数
+[2019-05-05 19:56:59] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 19:56:59] INFO  student.StudentMain 25 main - 完成查询，共耗时763毫秒
+[2019-05-05 19:56:59] INFO  student.StudentMain 30 main - 开始进行增加记录操作
+[2019-05-05 19:56:59] INFO  student.StudentMain 48 main - 完成增加记录操作，增加后学员编号：null 记录总数：60共耗时14毫秒
+[2019-05-05 19:56:59] INFO  student.StudentMain 55 main - 开始更改学员记录
+[2019-05-05 19:56:59] INFO  student.StudentMain 72 main - 更改操作结束，共耗时8毫秒
+[2019-05-05 20:14:39] INFO  student.StudentMain 18 main - 开始查询学员总数
+[2019-05-05 20:14:39] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:14:39] INFO  student.StudentMain 23 main - 完成查询，共耗时750毫秒
+[2019-05-05 20:14:39] INFO  student.StudentMain 28 main - 开始进行增加记录操作
+[2019-05-05 20:14:39] INFO  student.StudentMain 46 main - 完成增加记录操作，增加后学员编号：null 记录总数：62共耗时16毫秒
+[2019-05-05 20:14:39] INFO  student.StudentMain 53 main - 开始更改学员记录
+[2019-05-05 20:14:39] INFO  student.StudentMain 70 main - 更改操作结束，共耗时11毫秒
+[2019-05-05 20:18:24] INFO  student.StudentMain 18 main - 开始查询学员总数
+[2019-05-05 20:18:25] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:18:25] INFO  student.StudentMain 23 main - 完成查询，共耗时893毫秒
+[2019-05-05 20:18:25] INFO  student.StudentMain 28 main - 开始进行增加记录操作
+[2019-05-05 20:18:25] INFO  student.StudentMain 46 main - 完成增加记录操作，增加后学员编号：null 记录总数：63共耗时22毫秒
+[2019-05-05 20:18:25] INFO  student.StudentMain 53 main - 开始更改学员记录
+[2019-05-05 20:18:25] INFO  student.StudentMain 70 main - 更改操作结束，共耗时11毫秒
+[2019-05-05 20:18:25] INFO  student.StudentMain 75 main - 开始更改学员记录
+[2019-05-05 20:18:25] INFO  student.StudentMain 80 main - 更改操作结束，共耗时9毫秒
+[2019-05-05 20:19:16] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:25:33] INFO  student.StudentMain 20 main - 开始查询学员总数
+[2019-05-05 20:25:34] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:25:34] INFO  student.StudentMain 25 main - 完成查询，共耗时655毫秒
+[2019-05-05 20:25:34] INFO  student.StudentMain 30 main - 开始进行增加记录操作
+[2019-05-05 20:25:34] INFO  student.StudentMain 48 main - 完成增加记录操作，增加后学员编号：null 记录总数：64共耗时15毫秒
+[2019-05-05 20:25:34] INFO  student.StudentMain 55 main - 开始更改学员记录
+[2019-05-05 20:25:34] INFO  student.StudentMain 72 main - 更改操作结束，共耗时10毫秒
+[2019-05-05 20:25:34] INFO  student.StudentMain 77 main - 开始更改学员记录
+[2019-05-05 20:25:34] INFO  student.StudentMain 82 main - 更改操作结束，共耗时6毫秒
+[2019-05-05 20:26:03] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:27:21] INFO  student.StudentMain 20 main - 开始查询学员总数
+[2019-05-05 20:27:21] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:27:22] INFO  student.StudentMain 25 main - 完成查询，共耗时727毫秒
+[2019-05-05 20:27:22] INFO  student.StudentMain 30 main - 开始进行增加记录操作
+[2019-05-05 20:27:22] INFO  student.StudentMain 48 main - 完成增加记录操作，增加后学员编号：null 记录总数：65共耗时17毫秒
+[2019-05-05 20:27:22] INFO  student.StudentMain 55 main - 开始更改学员记录
+[2019-05-05 20:27:22] INFO  student.StudentMain 72 main - 更改操作结束，共耗时9毫秒
+[2019-05-05 20:27:22] INFO  student.StudentMain 77 main - 开始更改学员记录
+[2019-05-05 20:27:22] INFO  student.StudentMain 84 main - 更改操作结束，共耗时8毫秒
+[2019-05-05 20:28:14] INFO  student.StudentMain 19 main - 开始查询学员总数
+[2019-05-05 20:28:14] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:28:14] INFO  student.StudentMain 24 main - 完成查询，共耗时708毫秒
+[2019-05-05 20:28:14] INFO  student.StudentMain 29 main - 开始进行增加记录操作
+[2019-05-05 20:28:14] INFO  student.StudentMain 47 main - 完成增加记录操作，增加后学员编号：null 记录总数：66共耗时21毫秒
+[2019-05-05 20:28:14] INFO  student.StudentMain 54 main - 开始更改学员记录
+[2019-05-05 20:28:14] INFO  student.StudentMain 71 main - 更改操作结束，共耗时9毫秒
+[2019-05-05 20:28:14] INFO  student.StudentMain 76 main - 开始更改学员记录
+[2019-05-05 20:28:14] INFO  student.StudentMain 83 main - 更改操作结束，共耗时6毫秒
+[2019-05-05 20:31:04] INFO  student.StudentMain 19 main - 开始查询学员总数
+[2019-05-05 20:31:05] INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+[2019-05-05 20:31:05] INFO  student.StudentMain 24 main - 完成查询，共耗时780毫秒
+[2019-05-05 20:31:05] INFO  student.StudentMain 29 main - 开始进行增加记录操作
+[2019-05-05 20:31:05] INFO  student.StudentMain 47 main - 完成增加记录操作，增加后学员编号：76 记录总数：68共耗时16毫秒
+[2019-05-05 20:31:05] INFO  student.StudentMain 54 main - 开始更改学员记录
+[2019-05-05 20:31:05] INFO  student.StudentMain 71 main - 更改操作结束，共耗时9毫秒
+[2019-05-05 20:31:05] INFO  student.StudentMain 76 main - 开始更改学员记录
+[2019-05-05 20:31:05] INFO  student.StudentMain 83 main - 更改操作结束，共耗时6毫秒

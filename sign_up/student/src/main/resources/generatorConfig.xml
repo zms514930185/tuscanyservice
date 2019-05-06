@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration PUBLIC
+        "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <!--<properties resource="db.properties"/>-->
+    <context id="mysql" defaultModelType="hierarchical" targetRuntime="MyBatis3Simple">
+        <!-- 生成的 Java 文件的编码 -->
+        <property name="javaFileEncoding" value="UTF-8"/>
+        <!-- 格式化 Java 代码 -->
+        <property name="javaFormatter" value="org.mybatis.generator.api.dom.DefaultJavaFormatter"/>
+        <!-- 格式化 XML 代码 -->
+        <property name="xmlFormatter" value="org.mybatis.generator.api.dom.DefaultXmlFormatter"/>
+
+        <!-- 配置数据库连接 -->
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://127.0.0.1:3306/sign_up?nullCatalogMeansCurrent=true"
+                        userId="root"
+                        password="071104">
+        </jdbcConnection>
+
+        <!-- 生成实体的位置 -->
+        <javaModelGenerator targetPackage="student.model" targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"/>
+        </javaModelGenerator>
+
+        <!-- 生成 Mapper 接口的位置 -->
+        <sqlMapGenerator targetPackage="student.mapper" targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"/>
+        </sqlMapGenerator>
+
+        <!-- 生成 Mapper XML 的位置 -->
+        <javaClientGenerator targetPackage="student.mapper" type="XMLMAPPER" targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"/>
+        </javaClientGenerator>
+
+        <!-- 设置数据库的表名和实体类名 -->
+        <table tableName="student">
+        </table>
+    </context>
+</generatorConfiguration>
