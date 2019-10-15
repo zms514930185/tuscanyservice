@@ -1,0 +1,14 @@
+<composite
+        xmlns:tuscany="http://tuscany.apache.org/xmlns/sca/1.1"
+        xmlns="http://docs.oasis-open.org/ns/opencsa/sca/200912"
+        targetNamespace="http://demo"
+        name="demo">
+
+    <component name="say">
+        <implementation.java class="com.jnshu.service.SayImpl"/>
+        <service name="SayImpl">
+            <interface.java interface="com.jnshu.service.Say"/>
+            <tuscany:binding.rmi uri="rmi://127.0.0.1:8099/tuscany" />
+        </service>
+    </component>
+</composite>

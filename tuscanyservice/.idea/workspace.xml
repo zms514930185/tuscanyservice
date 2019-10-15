@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="729cca16-cdff-44f4-8a14-3e332cc7cc15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/clienttuscany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/src/main/java/com/jnshu/Cilent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/src/main/java/com/jnshu/controller/SayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/src/main/java/com/jnshu/service/Say.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/src/main/webapp/mvc-dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clienttuscany/src/main/webapp/pages/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clientweb/src/main/java/com/jnshu/controller/CilentWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clientweb/src/main/java/com/jnshu/service/Say.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/jnshu/demo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mainTest/src/main/java/com/jnshu/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/logs/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/logs/druid-sql.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/logs/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/logs/info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/logs/warn.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/rmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/CheckNumMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/JobMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/Rmi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/mapper/CheckNumMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/mapper/JobMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/model/CheckNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/model/Job.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/model/vo/UserVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/service/CheckNumService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/service/CheckNumServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/service/JobService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/service/JobServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/service/UserServiceImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/tag/dateTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/ApiInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/DesUitlImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/DesUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/Jjwt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/JjwtImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/Jwt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/MemCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/TencentCloudCos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/encoder/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/encoder/SMS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/com/jnshu/uitl/token/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/classes/redis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/logs/2019-09/debug-2019-09-24-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/logs/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/logs/druid-sql.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/logs/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/logs/info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/logs/warn.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/original-rmi-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/rmi-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/rmi_1022.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmi/target/rmi_1023.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/.idea/task4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/QuerySMSTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestBillRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestCallResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestCreateSubAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestGetSubAccounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestIvrDial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestLandingCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestMediaFileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestQueryCallState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestQuerySubAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestQuerytAccountInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestSendTemplateSMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/demo/SDKTestVoiceVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/CCPRestSDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/CcopHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/EncryptUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/LoggerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/PropertiesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/encoder/BASE64Decoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/encoder/BASE64Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/encoder/CEFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/encoder/CEStreamExhausted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/encoder/CharacterDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task7/sms/src/main/java/com/cloopen/rest/sdk/utils/encoder/CharacterEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8-c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8-c/src/main/java/com/jnshu/rmi/ServerRmiI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8-c/src/main/java/com/jnshu/rmi/ServerRmiOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8-c/src/main/java/com/jnshu/test/TestRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8-c/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8/src/main/java/com/jnshu/service/Testrun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8/src/main/java/com/jnshu/service/openService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8/src/main/java/com/jnshu/service/openServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8/src/main/java/com/jnshu/service/sayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8/src/main/java/com/jnshu/service/sayServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/controller/CookisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/controller/JobController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/controller/userController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/model/CheckNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/model/vo/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/rmi/TestRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/service/CheckNumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/service/JobService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/tag/dateTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/ApiInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/DesUitlImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/DesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/Jjwt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/JjwtImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/Jwt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/MemCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/TencentCloudCos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/encoder/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/encoder/SMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/java/com/jnshu/uitl/token/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/WEB-INF/tld/dateTag.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/mvc-dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/CSS/task8-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/CSS/task8-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/CSS/task8-3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/bootstrap/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/html/task8-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/html/task8-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/html/task8-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/banner/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/banner/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/banner/banner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/banner/banner4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/banner/第二页面图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/.net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/Java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/学员展示/rgba和opticy的demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/二维码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/人脉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/土豆网.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/头像.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/容联.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/星星.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/环信.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/箭头.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/规范.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/金山云.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/阿里巴巴.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/骑牛1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标/高效.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/小图标雪碧图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/雪碧图.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/首页/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/首页/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/首页/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/首页/雪碧图css.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/image/首页雪碧图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/img.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/job.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page/home_body.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page/img_body.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page/job_body.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page/menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/page/user_body.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/src/main/webapp/pages/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task8rmi/task8rmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/mapper/CheckNumMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/mapper/CheckNumMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/mapper/JobMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/mapper/JobMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/model/CheckNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/model/vo/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/service/CheckNumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/service/CheckNumServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/service/JobService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/service/JobServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/java/com/jnshu/task9/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task9/src/test/java/com/jnshu/task9/service/UserServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/java/com/jnshu/service/AddService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/java/com/jnshu/service/AddServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/java/com/jnshu/service/CalculatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/java/com/jnshu/service/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/java/com/jnshu/service/CalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/java/com/jnshu/service/SubtractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/java/com/jnshu/service/SubtractServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/src/main/resources/Calculator.composite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/Calculator.composite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/com/jnshu/service/AddService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/com/jnshu/service/AddServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/com/jnshu/service/CalculatorClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/com/jnshu/service/CalculatorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/com/jnshu/service/CalculatorServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/com/jnshu/service/SubtractService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/target/classes/com/jnshu/service/SubtractServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscan/tuscany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/java/com/jnshu/service/AddService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/java/com/jnshu/service/AddServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/java/com/jnshu/service/CalculatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/java/com/jnshu/service/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/java/com/jnshu/service/CalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/java/com/jnshu/service/SubtractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/java/com/jnshu/service/SubtractServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscany/src/main/resources/Calculator.composite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/src/main/java/com/jnshu/TuscanyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/src/main/java/com/jnshu/model/CheckNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/src/main/java/com/jnshu/model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/src/main/java/com/jnshu/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/src/main/java/com/jnshu/model/vo/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/src/main/java/com/jnshu/service/StudentTuscanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuscanyClient/tuscanyClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/service/Say.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jnshu/service/SayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/demo.composite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuscanyservice.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1770">
+              <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-720" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/Say.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/SayImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/demo.composite">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/service/Say.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/demo.composite.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/demo.composite" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnshu/service/SayImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenm2" />
+        <option name="mavenHome" value="D:/maven/apache_maven_3.5.0" />
+        <option name="userSettingsFile" value="D:\maven\apache_maven_3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuscanyservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuscanyservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuscanyservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="363" />
+    <option name="y" value="61" />
+    <option name="width" value="1312" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jnshu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jnshu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuscanyservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuscanyservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jnshu.Service" />
+      <module name="tuscanyservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jnshu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729cca16-cdff-44f4-8a14-3e332cc7cc15" name="Default Changelist" comment="" />
+      <created>1571015546925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571015546925</updated>
+      <workItem from="1571015550426" duration="4512000" />
+      <workItem from="1571062353598" duration="3744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8256000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="135" y="66" width="1312" height="775" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2539936" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36193448" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917318" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.3290735" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/Say.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/service/SayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnshu/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/demo.composite">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tuscanyservice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
